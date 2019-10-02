@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakipProgrami", "StokTakipProgrami\StokTakipProgrami.csproj", "{0D282507-13C9-4DDF-ADFE-1DE0ED4A1D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokTakipProgramiTests", "StokTakipProgramiTests\StokTakipProgramiTests.csproj", "{81213F88-57E1-48B0-8B03-AA1F5B57F631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D282507-13C9-4DDF-ADFE-1DE0ED4A1D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D282507-13C9-4DDF-ADFE-1DE0ED4A1D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D282507-13C9-4DDF-ADFE-1DE0ED4A1D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D282507-13C9-4DDF-ADFE-1DE0ED4A1D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81213F88-57E1-48B0-8B03-AA1F5B57F631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81213F88-57E1-48B0-8B03-AA1F5B57F631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81213F88-57E1-48B0-8B03-AA1F5B57F631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81213F88-57E1-48B0-8B03-AA1F5B57F631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DCC3BA0-7CFB-4165-A557-603096B685ED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\StokTakipProgramiTests.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\StokTakipProgramiTests.pdb
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\StokTakipProgrami.exe
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\StokTakipProgrami.pdb
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\StokTakipProgrami.exe.config
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\obj\Debug\StokTakipProgramiTests.csprojResolveAssemblyReference.cache
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\obj\Debug\StokTakipProgramiTests.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\obj\Debug\StokTakipProgramiTests.dll
+C:\Users\Kubilay TÜRK\Desktop\StokTakipProgramiWindowsProjesi\StokTakipProgrami\StokTakipProgramiTests\obj\Debug\StokTakipProgramiTests.pdb
